@@ -1,0 +1,21 @@
+#wrapper {
+	margin: 0 auto 0;
+	width: 960px;
+	background-color:#F8ECC2;
+}
+#headerOne {
+	margin: 0 0 0;
+	text-align:center;
+}
+#headerTwo {
+	font-size:66%;
+	margin: 0 0 0;
+	text-align:center;
+}
+h3 {
+	font-size:70%;
+	text-align:center;
+}
+h4 {
+	margin: 0 0 0;
+}
